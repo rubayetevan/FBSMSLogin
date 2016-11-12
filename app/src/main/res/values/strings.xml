@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FBSMSLogin</string>
+    <string name="facebook_app_id">368107873523955</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">19bfaf5a349dee5dca15282558b498e6</string>
+</resources>
